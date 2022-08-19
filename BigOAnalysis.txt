@@ -1,0 +1,11 @@
+BIG O Analysis 
+
+Mergelists O(n)
+Insert: O(n)
+Delete: O(n^2)
+Search: O(n)
+Print: O(n)
+Trim: 
+  Head: O(1) 
+  Tail: O(n) 
+Sort: O(nlogn)---Average case for quicksort 
